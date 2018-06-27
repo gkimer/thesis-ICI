@@ -1,4 +1,4 @@
-Bearing fault diagnosis using empirical modal decomposition and deep learning
+#Bearing fault diagnosis using empirical modal decomposition and deep learning
   Abstract
   In the industry, to avoid monetary losses, it is important to know the state
   of the bearings of the machines since they represent 40 % of the total of the
